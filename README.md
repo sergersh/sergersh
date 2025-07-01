@@ -1,5 +1,9 @@
-## Hi there 👋
+## Привет! 👋
+<br />
 
+Привет, меня зовут Сергей, программист 1С. 
+
+<br />
 <!--
 **sergersh/sergersh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
